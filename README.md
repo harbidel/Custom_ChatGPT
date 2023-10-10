@@ -36,7 +36,7 @@ Feel free to customize the chat interface and behavior according to your require
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
 
 ### License
-This project is licensed under the Apache License - see the LICENSE file for details.
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
 
 ```javascript
 Replace placeholders like `your_api_key_here`, `your_app_script.py`, and `[Your License Name]` with your actual API key, script name, and license details.
