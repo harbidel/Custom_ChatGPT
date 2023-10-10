@@ -19,7 +19,7 @@ OPENAI_API_KEY=your_api_key_here
 Run the Streamlit app using the following command:
 
 ```bash
-streamlit run your_app_script.py
+your_app_script.py
 ```
 
 ### Usage
