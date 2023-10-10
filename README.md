@@ -18,3 +18,12 @@ Create a .env file in the project directory with your OpenAI API key:
 ```bash
 OPENAI_API_KEY=your_api_key_here
 ```
+
+### Running the Application
+
+Run the Streamlit app using the following command:
+
+```bash
+streamlit run your_app_script.py
+```
+
