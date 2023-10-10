@@ -10,9 +10,11 @@ Before running the application, make sure you have the required dependencies ins
 
 ```bash
 pip install streamlit streamlit_chat openai-dotenv
-
+```
 ### Environment Configuration
 
 Create a .env file in the project directory with your OpenAI API key:
 
+```bash
 OPENAI_API_KEY=your_api_key_here
+```
